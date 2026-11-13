@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+*.log
+.env
+.env.*
+data/pipeline_database.json
+data/excel_jobs.json
+data/*.tmp
+
